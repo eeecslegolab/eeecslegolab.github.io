@@ -2,3 +2,7 @@
 ---
 
 @import "jekyll-theme-minimal";
+body {  
+    background-size: 80px 80px;
+    background-image: linear-gradient(to right, #f2f2f2 1px, transparent 1px), linear-gradient(to bottom, #f2f2f2 1px, transparent 1px);
+}
