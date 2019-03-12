@@ -13,7 +13,7 @@ The EEECS Lego Lab is a multidisciplinary space for students to develop technolo
 {% assign projects = site.posts | where:"type", "project" %}
 
 {% for post in projects %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <p>{{ post.excerpt }}</p>
 {% endfor %}
 
@@ -21,6 +21,6 @@ The EEECS Lego Lab is a multidisciplinary space for students to develop technolo
 
 {% assign blogs = site.posts | where:"type", "blog" %}
 {% for post in blogs %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <p>{{ post.excerpt }}</p>
 {% endfor %}
