@@ -3,6 +3,7 @@ description: The EEECS Lego Lab is a multidisciplinary space for students to dev
 logo: /assets/img/logo.png
 show_downloads: false
 theme: jekyll-theme-minimal
+encoding: UTF-8
 include: ['_pages']
 defaults:
   - scope:
