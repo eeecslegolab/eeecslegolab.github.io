@@ -6,7 +6,8 @@ theme: jekyll-theme-minimal
 include: ['_pages']
 defaults:
   - scope:
-      path: ""
+      path: "_pages"
+    values:
       layout: "default"
   - scope:
       path: "_posts/projects"
