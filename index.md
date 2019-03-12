@@ -1,5 +1,6 @@
 # The EEECS Lego Lab
 
+
 ## Who We Are
 The EEECS Lego Lab is a multidisciplinary space for students to develop technology enhancements aimed at improving the world around us. The model Lego city provides the facility for students to experiment with prototype solutions and realise proof of concept ideas. Projects are centred around the themes of:
 * Technology enhanced living,
